@@ -10,3 +10,6 @@
 [submodule "Plugins/universallogging"]
 	path = Plugins/universallogging
 	url = https://git-ce.rwth-aachen.de/vr-vis/VR-Group/unreal-development/plugins/universallogging.git
+[submodule "Plugins/listening-test-ui"]
+	path = Plugins/listening-test-ui
+	url = https://git.rwth-aachen.de/ihta/unreal/plugins/listening-test-ui.git
