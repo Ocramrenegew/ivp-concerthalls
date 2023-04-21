@@ -1,13 +1,6 @@
-[submodule "Plugins/listening-test-ui"]
-	path = Plugins/listening-test-ui
-	url = https://git.rwth-aachen.de/ihta/unreal/plugins/listening-test-ui.git
 [submodule "Plugins/unreal-va-plugin"]
 	path = Plugins/unreal-va-plugin
 	url = https://git-ce.rwth-aachen.de/vr-vis/VR-Group/unreal-development/plugins/unreal-va-plugin.git
-[submodule "Plugins/rwth-vr-toolkit"]
-	path = Plugins/rwth-vr-toolkit
-	url = https://git-ce.rwth-aachen.de/vr-vis/VR-Group/unreal-development/plugins/rwth-vr-toolkit.git
-	branch = 4.27
 [submodule "Plugins/UE4TcpSocketPlugin"]
 	path = Plugins/UE4TcpSocketPlugin
 	url = https://github.com/CodeSpartan/UE4TcpSocketPlugin.git
